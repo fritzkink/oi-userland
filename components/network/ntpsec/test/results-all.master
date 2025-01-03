@@ -1,0 +1,17 @@
+execution summary 
+  tests that pass 10/10 
+  tests that fail 0/10 
+running: main/ntpclients/ntpleapfetch --version  OK 
+running: main/ntpd/ntpd --version  OK 
+running: main/ntpfrob/ntpfrob -V  OK 
+running: main/ntptime/ntptime -V  OK 
+running: main/ntpclients/ntpdig --version  OK 
+running: main/ntpclients/ntpkeygen --version  OK 
+running: main/ntpclients/ntplogtemp --version  OK 
+running: main/ntpclients/ntpmon --version  OK 
+running: main/ntpclients/ntpq --version  OK 
+running: main/ntpclients/ntpsnmpd --version  OK 
+running: main/ntpclients/ntpsweep --version  OK 
+running: main/ntpclients/ntptrace --version  OK 
+running: main/ntpclients/ntpviz --version  OK 
+running: main/ntpclients/ntpwait --version  OK 
